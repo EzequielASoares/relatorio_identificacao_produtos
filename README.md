@@ -87,6 +87,9 @@ def search_product_online(product_name):
 - Jupyter Notebook para prototipação e visualização de resultados.
 
 ## Como Usar
+- Acesse atráves do google colab: https://colab.research.google.com/drive/1oOvf6mWyyZ7YAtI3ytjq5dTFszQ_1Vt6?usp=sharing
+ou localmente:
+
 1. Clone este repositório:
    ```bash
    git clone https://github.com/EzequielASoares/relatorio_identificacao_produtos.git
