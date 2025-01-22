@@ -103,8 +103,5 @@ def search_product_online(product_name):
 ## Contribuições
 São bem-vindas contribuições ao projeto! Abra uma _issue_ ou envie um _pull request_ com suas sugestões.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ### Nota
 Este código está livre para uso por qualquer pessoa para fins educacionais ou como base para pesquisas na internet. Fique à vontade para adaptá-lo ou compartilhá-lo!
